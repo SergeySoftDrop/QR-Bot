@@ -76,4 +76,3 @@ npm run start
 
 По всем вопросам:
 - [Телеграм](https://t.me/deadbloand): @deadbloand
-- [Телеграм](https://t.me/mxmndrsn): @mxmndrsn
